@@ -3,7 +3,37 @@ guid: ec8ca3d6bd6de064e921bd4696e15619
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultLib.Material
+    second: {fileID: 2100000, guid: 8503215b593496446822b755284eaaf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultLib.Material1
+    second: {fileID: 2100000, guid: d106201e2a3e242448beefef06666f13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultLib.Material3
+    second: {fileID: 2100000, guid: f70a63fef828d7549a4468a2a715adc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultLib.Material4
+    second: {fileID: 2100000, guid: 30a96e0fa7114c54f91ce4b2d8595503, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultLib.Material8
+    second: {fileID: 2100000, guid: 9ddb40cf29d7f6e4388f8fbdf7680874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultLib.Material_arm_leg1
+    second: {fileID: 2100000, guid: 33c026990b7e1f9449aeb9e891ddde1a, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
